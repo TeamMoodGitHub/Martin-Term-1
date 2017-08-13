@@ -1,6 +1,7 @@
 # Martin-Term-1
 
-### rfzou.me
+## rfzou.me
+
 # Plan overview
 The final product will be a one-stop webpage for all the information an employer may want to know about me.
 
@@ -28,5 +29,5 @@ Line numbering<br>
 Typing animation for the landing page
 
 # Technology
-Client - React.js
+Client - React.js<br>
 Server - Node.js (if APIs are in use)
