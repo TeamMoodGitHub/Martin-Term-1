@@ -34,4 +34,6 @@ Server - Node.js (if APIs are in use)
 
 ### Test change
 This is a change to the README to commit via 
-command line.
+command line.<br>
+
+This is a second addition for week-one only
