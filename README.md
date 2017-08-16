@@ -33,5 +33,5 @@ Client - React.js<br>
 Server - Node.js (if APIs are in use)
 
 ### Test change
-This is a change to the README to commit via <br>
+This is a change to the README to commit via 
 command line.
